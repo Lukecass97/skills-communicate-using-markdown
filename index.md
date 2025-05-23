@@ -1,8 +1,7 @@
-# This is a header
-## This is a second header
-#### This is another header
+# Header 1
 
+## Header 2
 
+##### Header 3
 
-
-I edited the file with headers
+I edited this file by adding headers
