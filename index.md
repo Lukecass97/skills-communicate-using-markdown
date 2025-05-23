@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ``` 
+
+- [x] Open GitHub
+- [x] Edit index.md
+- [ ] Finish task
